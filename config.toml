@@ -60,7 +60,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "MSachs.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "michael.sachs@ki.se"
-  address = "Nobels väg 13, 17165 Stockholm, Sweden"
+  address = "Department of Medicine, Solna, 17176 Stockholm, Sweden"
   office_hours = "by appointment only"
   phone = ""
   skype = "sachsmc"
@@ -94,8 +94,8 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "59.3477"
-  longitude = "18.0238"
+  latitude = "59.3515"
+  longitude = "18.0373"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
