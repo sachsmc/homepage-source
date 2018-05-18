@@ -38,4 +38,4 @@ highlight = true
 
 +++
 
-The what, why, where and how of interactive statistical graphics. 
+An introduction to modeling for prediction. Types of models, issues in valiation, and considerations for censored data.
