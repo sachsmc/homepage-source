@@ -1,0 +1,20 @@
+# Theme metadata
+name = "Default"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#07889b"
+primary_light = "#eeaa7b"
+primary_dark = "#e37222"
+
+# Menu
+menu_primary = "#07889b" # 500
+menu_text = "#eeaa7b"
+menu_text_active = "#fff" # A100
+menu_title = "#eeaa7b"
+
+# Home sections
+home_section_odd = "#fff"
+home_section_even = "#ffe8d8"
