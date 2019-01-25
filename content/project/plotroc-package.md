@@ -13,7 +13,7 @@ image_preview = "plotroc.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["plot"]
+tags = ["graphics"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://sachsmc.github.io/plotROC"

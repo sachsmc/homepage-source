@@ -9,6 +9,7 @@ abstract_short = ""
 event = "KEP Methods Club"
 #event_url = "https://example.org"
 location = "Stockholm, Sweden"
+comments = true
 
 # Is this a selected talk? (true/false)
 selected = true
@@ -50,6 +51,8 @@ The first paper, by Asar et al., reviews the methods for joint modelling of long
 I will present a brief overview including some examples and lead the discussion. For future topics, please let me know if you are interested in taking the lead. The planned topics for the next few months are below.
 
 October: Sensitivity Analysis
+
 November: Qualitative Interactions
+
 December: Causal Inference in Observational Studies
 

@@ -103,7 +103,10 @@
     </div>
 
     {{ partial "tags.html" . }}
-
+    
+    {{ if .Params.comments }}
+{{ partial "comments.html" . }}
+{{ end }}
   </div>
 </div>
 
@@ -112,6 +115,7 @@
   {{ partial "section_pager.html" . }}
 </div>
 {{ end }}
+
 
 {{ partial "footer_container.html" . }}
 {{ partial "footer.html" . }}
